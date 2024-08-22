@@ -16,6 +16,8 @@ This sample project uses Teams Toolkit for Visual Studio Code to simplify the pr
 
 - [Sébastien Levert](https://github.com/sebastienlevert)
 - [Waldek Mastykarz](https://github.com/waldekmastykarz)
+- [Fabian Williams](https://github.com/fabianwilliams)
+- [Gladys Alvarez Jimenez](https://github.com/gladysaj)
 
 ## Version History
 
